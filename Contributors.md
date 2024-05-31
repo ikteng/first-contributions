@@ -113,6 +113,7 @@
 - [Saeed Hossen](https://github.com/appsaeed) 👋
 - [Ahmed Omar Eissa](https://github.com/AhmedOmarEissa) 
 - Samir
+- [Ik Teng](https://github.com/ikteng)
 - [Omar Bassuni](https://github.com/omarbassuni2)
 - Preetham (https://github.com/preethamkonuganti)
 - [Dipaloke Biswas](https://github.com/dipaloke)🇧🇩
